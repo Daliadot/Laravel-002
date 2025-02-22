@@ -1,3 +1,52 @@
+
+# Plantas - Site com Laravel
+
+Bem-vindo ao projeto **Plantas**! Este é um site construído com **Laravel**, utilizando **HTML** e **CSS** puros. O objetivo do site é fornecer informações sobre diferentes tipos de plantas, incluindo cuidados, recomendações de cultivo e outras dicas úteis.
+
+## Funcionalidades
+
+- **Listagem de plantas**: Exibe uma lista de plantas com informações básicas.
+- **Página detalhada de cada planta**: Cada planta tem uma página individual com detalhes como cuidados, curiosidades e imagens.
+- **Filtro por categoria**: Permite filtrar as plantas por tipo (e.g., suculentas, flores, etc.).
+- **Design simples e limpo**: Estilo criado com HTML e CSS puros para uma boa performance e simplicidade.
+
+## Tecnologias Utilizadas
+
+- **Laravel**: Framework PHP para a construção do backend.
+- **HTML**: Estrutura da página.
+- **CSS**: Estilo visual do site.
+- **MySQL**: Banco de dados para armazenamento das informações das plantas.
+
+## Requisitos
+
+Antes de começar, verifique se você possui os seguintes requisitos:
+
+- **PHP** (versão 7.4 ou superior)
+- **Composer** (para gerenciar dependências do Laravel)
+- **MySQL** (ou outro banco de dados configurado no arquivo `.env`)
+
+## Como Instalar
+
+### Passo 1: Clonar o Repositório
+
+Clone este repositório em sua máquina local usando Git:
+
+```bash
+git clone https://github.com/seu-usuario/plantas.git
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
 <p align="center">
