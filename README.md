@@ -31,8 +31,7 @@ Antes de começar, verifique se você possui os seguintes requisitos:
 
 Clone este repositório em sua máquina local usando Git:
 
-```bash
-git clone https://github.com/seu-usuario/plantas.git
+
 
 
 
